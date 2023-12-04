@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://dslzl.eu.org/dslzler.github.io/2023/11/27/sample/</loc>
+    <loc>https://wiki.dslzl.eu.org/2023/11/27/welcome/</loc>
     
-    <lastmod>2023-11-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dslzl.eu.org/dslzler.github.io/2023/11/27/welcome/</loc>
-    
-    <lastmod>2023-11-27</lastmod>
+    <lastmod>2023-12-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://dslzl.eu.org/dslzler.github.io/2023/11/27/hello-world/</loc>
+    <loc>https://wiki.dslzl.eu.org/2023/12/01/hello-world/</loc>
     
-    <lastmod>2023-11-27</lastmod>
+    <lastmod>2023-12-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wiki.dslzl.eu.org/2023/11/27/sample/</loc>
+    
+    <lastmod>2023-12-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -30,8 +30,8 @@
   
 
   <url>
-    <loc>https://dslzl.eu.org/dslzler.github.io</loc>
-    <lastmod>2023-11-28</lastmod>
+    <loc>https://wiki.dslzl.eu.org/</loc>
+    <lastmod>2023-12-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
