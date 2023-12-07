@@ -4,19 +4,6 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="./2023/12/01/hello-world/"/>
-      <url>./2023/12/01/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>sample</title>
       <link href="./2023/11/27/sample/"/>
       <url>./2023/11/27/sample/</url>
@@ -34,7 +21,7 @@
       <link href="./2023/11/27/welcome/"/>
       <url>./2023/11/27/welcome/</url>
       
-        <content type="html"><![CDATA[<h1 id="别急还没写，总之欢迎一下先"><a href="#别急还没写，总之欢迎一下先" class="headerlink" title="别急还没写，总之欢迎一下先"></a>别急还没写，总之欢迎一下先</h1>]]></content>
+        <content type="html"><![CDATA[<h1 id="别急还没写，总之欢迎一下先"><a href="#别急还没写，总之欢迎一下先" class="headerlink" title="别急还没写，总之欢迎一下先"></a>别急还没写，总之欢迎一下先</h1><!--code__1--><pre><code>%u8FD9%u91CC%u662F%u6211%u7684%u4E16%u754C%u5427%u7684wiki%uFF0C%u5C06%u4F1A%u628A%u5404%u79CD%u6559%u7A0B%u3001%u5F15%u5BFC%u3001%u7B54%u7591%u7684%u6587%u7AE0%u90FD%u653E%u4E0A%u6765%uFF0C%u4F9B%u5404%u4F4D%u53C2%u8003%20%20%20%20</code></pre><!--//code__1--><p>整这个的初衷是为了不让懂的人费心思，让不懂的人省时省力，如果各位仍然无法解决自己遇到的问题，就可在吧内询问</p><h6 id="编不下去了"><a href="#编不下去了" class="headerlink" title="编不下去了"></a>编不下去了</h6>]]></content>
       
       
       
