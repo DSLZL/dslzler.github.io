@@ -6,7 +6,7 @@
   <link href="https://wiki.dslzl.eu.org/atom.xml" rel="self"/>
   
   <link href="https://wiki.dslzl.eu.org/"/>
-  <updated>2023-12-01T12:57:10.024Z</updated>
+  <updated>2023-12-08T11:37:18.490Z</updated>
   <id>https://wiki.dslzl.eu.org/</id>
   
   <author>
@@ -17,9 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>光影的安装与使用</title>
+    <link href="https://wiki.dslzl.eu.org/posts/2/"/>
+    <id>https://wiki.dslzl.eu.org/posts/2/</id>
+    <published>2023-12-08T09:09:21.000Z</published>
+    <updated>2023-12-08T11:37:18.490Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;em&gt;尚未完工，明天继续&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;先说点题外话&quot;&gt;&lt;a href=&quot;#先说点题外话&quot; class=&quot;headerlink&quot; title=&quot;先说点题外话&quot;&gt;&lt;/a&gt;先说点题外话&lt;/h2&gt;&lt;p&gt;最初的光影mod是GLSL，英文全称Shaders</summary>
+        
+      
+    
+    
+    
+    
+    <category term="光影" scheme="https://wiki.dslzl.eu.org/tags/%E5%85%89%E5%BD%B1/"/>
+    
+    <category term="HMCL" scheme="https://wiki.dslzl.eu.org/tags/HMCL/"/>
+    
+    <category term="PCL2" scheme="https://wiki.dslzl.eu.org/tags/PCL2/"/>
+    
+  </entry>
+  
+  <entry>
     <title>sample</title>
-    <link href="https://wiki.dslzl.eu.org/posts/1/"/>
-    <id>https://wiki.dslzl.eu.org/posts/1/</id>
+    <link href="https://wiki.dslzl.eu.org/posts/2/"/>
+    <id>https://wiki.dslzl.eu.org/posts/2/</id>
     <published>2023-11-27T14:35:10.000Z</published>
     <updated>2023-12-01T12:57:10.024Z</updated>
     
@@ -39,8 +67,8 @@
   
   <entry>
     <title>welcome</title>
-    <link href="https://wiki.dslzl.eu.org/posts/2/"/>
-    <id>https://wiki.dslzl.eu.org/posts/2/</id>
+    <link href="https://wiki.dslzl.eu.org/posts/1/"/>
+    <id>https://wiki.dslzl.eu.org/posts/1/</id>
     <published>2023-11-27T10:51:09.000Z</published>
     <updated>2023-12-07T05:21:24.124Z</updated>
     
