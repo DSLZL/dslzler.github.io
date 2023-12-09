@@ -5,8 +5,8 @@
     
     <entry>
       <title>光影的安装与使用</title>
-      <link href="/posts/1/"/>
-      <url>/posts/1/</url>
+      <link href="/posts/2/"/>
+      <url>/posts/2/</url>
       
         <content type="html"><![CDATA[<p><em>尚未完工，明天继续</em></p><h2 id="先说点题外话"><a href="#先说点题外话" class="headerlink" title="先说点题外话"></a>先说点题外话</h2><p>最初的光影mod是GLSL，英文全称Shaders Mod Core，中文全称光影模组核心<br>最早版本是GLSL Shaders mod for Minecraft 1.3.2 modified by karyonix v4，大约发布于2012/11/01之前<br><strong>还有Optifine只能在低版本称霸，高版本什么都不是</strong><br>作为一个过来人，我了解什么都不懂的情况下，想要自己搞是很难的<br>那么废话不多说，开始正题<br><span id="more"></span></p><h2 id="自动安装"><a href="#自动安装" class="headerlink" title="自动安装"></a>自动安装</h2><hr><h3 id="PCL2启动器"><a href="#PCL2启动器" class="headerlink" title="PCL2启动器"></a>PCL2启动器</h3><p>对于使用PCL2启动器的人，在下载游戏本体时可看见下面有很多可选项<br>其中就有你可能耳闻的Optifine，点开就能看见选择版本安装的界面<br>不要考虑什么正式版测试版，最上面的版本是最好的<br>选择完毕，这时候你的本体名字（X.XX.X或者X.XX）的后面会加上它和它的版本号<br>点击安装即可，其他的PCL2已经帮你搞好了</p><hr><h3 id="HMCL启动器"><a href="#HMCL启动器" class="headerlink" title="HMCL启动器"></a>HMCL启动器</h3><p>对于使用HMCL启动器的人，在下载游戏本体时可看见下面有很多可选项<br>其中就有你可能耳闻的Optifine，点开就能看见选择版本安装的界面<br>在挑选版本之前，请你确认在筛选里勾选了正式版和测试版<br>然后不要考虑什么正式版测试版，最上面的版本是最好的<br>选择完毕，点击安装即可，其他的HMCL已经帮你搞好了</p><hr>]]></content>
       
@@ -28,8 +28,8 @@
     
     <entry>
       <title>welcome</title>
-      <link href="/posts/2/"/>
-      <url>/posts/2/</url>
+      <link href="/posts/1/"/>
+      <url>/posts/1/</url>
       
         <content type="html"><![CDATA[<h1 id="别急还没写，总之欢迎一下先"><a href="#别急还没写，总之欢迎一下先" class="headerlink" title="别急还没写，总之欢迎一下先"></a>别急还没写，总之欢迎一下先</h1><p>这里是我的世界吧的wiki，将会把各种教程、引导、答疑的文章都放上来，供各位参考<br>整这个的初衷是为了不让懂的人费心思，让不懂的人省时省力，如果各位仍然无法解决自己遇到的问题，就可在吧内询问</p><p><del>编不下去了</del></p>]]></content>
       
