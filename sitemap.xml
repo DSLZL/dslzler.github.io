@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://wiki.dslzl.eu.org/MOD%20UPDATE/index.html</loc>
+    <loc>https://wiki.dslzl.eu.org/mod%20upload/index.html</loc>
     
     <lastmod>2023-12-08</lastmod>
     
@@ -31,7 +31,7 @@
 
   <url>
     <loc>https://wiki.dslzl.eu.org/</loc>
-    <lastmod>2023-12-08</lastmod>
+    <lastmod>2023-12-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
