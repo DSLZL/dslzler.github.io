@@ -6,7 +6,7 @@
   <link href="https://wiki.dslzl.eu.org/atom.xml" rel="self"/>
   
   <link href="https://wiki.dslzl.eu.org/"/>
-  <updated>2023-12-08T11:46:39.924Z</updated>
+  <updated>2023-12-09T04:00:37.009Z</updated>
   <id>https://wiki.dslzl.eu.org/</id>
   
   <author>
@@ -17,9 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>光影的安装与使用</title>
+    <title>我的世界吧吧规备份和更新日志</title>
     <link href="https://wiki.dslzl.eu.org/posts/2/"/>
     <id>https://wiki.dslzl.eu.org/posts/2/</id>
+    <published>2023-12-09T03:57:28.000Z</published>
+    <updated>2023-12-09T04:00:37.009Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&amp;lt;!–read more-&amp;gt;&lt;/p&gt;
+&lt;h2 id=&quot;正式版第一版&quot;&gt;&lt;a href=&quot;#正式版第一版&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="吧规" scheme="https://wiki.dslzl.eu.org/tags/%E5%90%A7%E8%A7%84/"/>
+    
+    <category term="我的世界吧" scheme="https://wiki.dslzl.eu.org/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%90%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>光影的安装与使用</title>
+    <link href="https://wiki.dslzl.eu.org/posts/1/"/>
+    <id>https://wiki.dslzl.eu.org/posts/1/</id>
     <published>2023-12-08T09:09:21.000Z</published>
     <updated>2023-12-08T11:46:39.924Z</updated>
     
@@ -40,8 +66,8 @@
   
   <entry>
     <title>welcome</title>
-    <link href="https://wiki.dslzl.eu.org/posts/1/"/>
-    <id>https://wiki.dslzl.eu.org/posts/1/</id>
+    <link href="https://wiki.dslzl.eu.org/posts/2/"/>
+    <id>https://wiki.dslzl.eu.org/posts/2/</id>
     <published>2023-11-27T10:51:09.000Z</published>
     <updated>2023-12-07T05:21:24.124Z</updated>
     
