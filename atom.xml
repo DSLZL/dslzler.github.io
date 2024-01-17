@@ -24,7 +24,7 @@
     <updated>2024-01-05T09:08:54.693Z</updated>
     
     
-    <summary type="html">&lt;p&gt;点击查看更多&lt;br&gt;</summary>
+    <summary type="html">&lt;p&gt;点击查看更多&lt;/p&gt;</summary>
     
     
     
@@ -44,7 +44,12 @@
     
     
     <summary type="html">&lt;p&gt;&lt;em&gt;尚未完工，明天继续&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&quot;先说点题外话&quot;&gt;&lt;a href=&quot;#先说点题外话&quot; class=&quot;headerlink&quot; title=&quot;先说点题外话&quot;&gt;&lt;/a&gt;先说点题外话&lt;/h2&gt;&lt;p&gt;最初的光影mod是GLSL，英文全称Shaders Mod Core，中文全称光影模组核心&lt;br&gt;最早版本是GLSL Shaders mod for Minecraft 1.3.2 modified by karyonix v4，大约发布于2012/11/01之前&lt;br&gt;&lt;strong&gt;还有Optifine只能在低版本称霸，高版本什么都不是&lt;/strong&gt;&lt;br&gt;作为一个过来人，我了解什么都不懂的情况下，想要自己搞是很难的&lt;br&gt;那么废话不多说，开始正题&lt;br&gt;</summary>
+&lt;h2 id=&quot;先说点题外话&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#先说点题外话&quot;&gt;#&lt;/a&gt; 先说点题外话&lt;/h2&gt;
+&lt;p&gt;最初的光影 mod 是 GLSL，英文全称 Shaders Mod Core，中文全称光影模组核心&lt;br&gt;
+最早版本是 GLSL Shaders mod for Minecraft 1.3.2 modified by karyonix v4，大约发布于 2012/11/01 之前&lt;br&gt;
+&lt;strong&gt;还有 Optifine 只能在低版本称霸，高版本什么都不是&lt;/strong&gt;&lt;br&gt;
+作为一个过来人，我了解什么都不懂的情况下，想要自己搞是很难的&lt;br&gt;
+那么废话不多说，开始正题&lt;/p&gt;</summary>
     
     
     
