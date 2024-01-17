@@ -1,0 +1,13 @@
+<body onload="javascript:dogo();">
+<script>
+function dogo(){
+    var urls=[
+        "https://wiki.dslzl.eu.org/backup/",
+        "https://wiki.dslzl.eu.org/Mod_Update/index.html",
+        "https://wiki.dslzl.eu.org/Installation-and-use-of-light-and-shadow/",
+        "https://wiki.dslzl.eu.org/welcome/",
+        ];
+    n = Math.floor(Math.random()*urls.length);
+    location.href= urls[n];
+}
+</script>
